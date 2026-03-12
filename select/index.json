@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "やっちゃったわ",
+  "base_artist": "syudou",
+  "createdAt": "2026-03-12T01:04:49.765876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やっちゃったわ",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_やっちゃったわ_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "【syudou】やっちゃったわ",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/02_【syudou】やっちゃったわ_syudou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やっちゃったわ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_やっちゃったわ_syudou.txt"
+    }
+  ]
+}
